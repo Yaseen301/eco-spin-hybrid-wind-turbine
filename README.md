@@ -35,7 +35,7 @@ This repository presents a student team research project. The portfolio contains
 - Averaged 0.1375 W during a five-minute test at approximately 4.4 m/s wind, exceeding the 0.133 W target, and charged a battery through a dynamo.
 - Final grade: A.
 
-The results and distinctions above are reported in the project portfolio and the application CV.
+The results and distinctions above are reported in the project portfolio.
 
 ## Attribution
 
